@@ -5,7 +5,7 @@
         <input type="email" required v-model="email" placeholder="Enter email.."><br/><br/>
         <input type="password" v-model="password" placeholder="Enter password.."><br/><br/>
         <button type="submit">SignUp</button>
-        <span>Don't have an account <router-link to="/">LogIn</router-link></span>
+        <span>have an account <router-link to="/">LogIn</router-link></span>
     </form>
     
 </div>
